@@ -1,0 +1,2 @@
+make: 
+ g++ teste.cpp -o app `pkg-config --cflags --libs opencv`
